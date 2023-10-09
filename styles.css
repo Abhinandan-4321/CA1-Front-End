@@ -1,0 +1,176 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    /* background-size: cover; */
+    /* background-attachment: fixed; */
+    height: fit-content;
+}
+#nlogo{
+    height: 40px;
+    position: fixed;
+    left: 4%;
+}
+.nav{
+    font-size: 18px;
+    color: white;
+    list-style-type: none;
+    /* display: inline; */
+    position: fixed;
+    left: 16%;
+    top: 2%;
+
+}
+.nav2{
+    font-size: 18px;
+    color: white;
+    list-style-type: none;
+    display: inline;
+    position: fixed;
+    left: 19%;
+    top: 2%;
+}
+.nav3{ 
+    font-size: 18px;
+    color: white;
+    list-style-type: none;
+    display: inline;
+    position: fixed;
+    left: 23%;
+    top: 2%; 
+} 
+.nav4{
+    font-size: 18px;
+    color: white;
+    list-style-type: none;
+    display: inline;
+    position: fixed;
+    left: 27.5%;
+    top: 2%;
+}
+.nav5{
+    font-size: 18px;
+    color: white;
+    list-style-type: none;
+    display: inline;
+    position: fixed;
+    left: 30.5%;
+    top: 2%;
+}
+#src{
+    color: white;
+    display: inline;
+    position: fixed;
+    top: 2.5%;
+    left: 78%;
+}
+#box{
+    border-color: white;
+    display: inline;
+    position: fixed;
+    top: 2.3%;
+    left: 81%;
+}
+#bell{
+    border-color: white;
+    display: inline;
+    position: fixed;
+    top: 2.1%;
+    left: 83.8%;
+}
+#profile{
+    height: 22.8px; display: inline;
+    position: fixed;
+    top: 2.1%;
+    left: 86.5%;
+    
+}
+#arrow{
+    border-color: white;
+    display: inline;
+    position: fixed;
+    top: 2.1%;
+    left: 89%;
+}
+#nsym{
+    height: 35px;
+    position: fixed;
+    top:44%;
+    left: 7%
+}
+#nxtword{
+    letter-spacing:9px;
+    position: fixed;
+    top:44.5%;
+    left:9%;
+
+}
+#maid{
+    font-size: 160px;
+    font-weight: bold;
+    position: fixed;
+    top: 43%;
+    left: 6.3%;
+}
+.small{
+    height: 12px;
+}
+#play{
+    height: 40px;
+    width: 95px;
+    border-radius: 4px;
+    border: none;
+    background-color: white;
+    position: fixed;
+    top:70%;
+    left:7.5%;
+    font-weight:bold ;
+}
+#moreinfo{
+    height: 40px;
+    width: 95px;
+    border-radius: 4%;
+    border: none;
+    background-color: white;
+    position: fixed;
+    top:70%;
+    left:15%;
+    font-weight:bold ;
+    opacity: 45%;
+    /* color: white; */
+}
+.right{
+    height: 14px;
+}
+#see{
+    font-size:16px;
+    position: fixed;
+    top: 92%;
+    left:8%;
+}
+#plus{
+    height: 19px;
+    position: fixed;
+    top:5%;
+    left:87%;
+}
+.s2{
+    background-color: black;
+}
+.firstline{
+    height: 120px;
+}
+.color{
+    background-color: bla;
+}
+.shift{
+    height: 140px;
+}
+p{
+    color:white;
+    margin-left:20px;
+    margin-bottom: 5px;
+}
+.trend{
+    margin-left: 70px;
+}
